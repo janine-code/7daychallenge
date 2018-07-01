@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "48190624374",
+    "firebase_url": "https://authentication-e97ee.firebaseio.com",
+    "project_id": "authentication-e97ee",
+    "storage_bucket": "authentication-e97ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48190624374:android:0087440a15936460",
+        "android_client_info": {
+          "package_name": "com.example.android.journalapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48190624374-sf948rmrel8p4b7rj85mhkbtddvhulfp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1PC9ox1A_NpqJgizDtRu8ikdFLn6wFWE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
